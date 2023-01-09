@@ -27,11 +27,11 @@
 * 클라이언트가 표준 입력에서 입력한 임의의 길이의 메시지를 서버는 표준 출력에 출력
 
 ## 테스트 결과
-16/16
+* 16/16
 
 ## 제작 기간
-2022.11.17 - 2022.11.23
+* 2022.11.17 - 2022.11.23
 
 ## 출처
 * Purdue University (CS 422: Computer Networks)
-* 직접 작성한 코드: srcs 파일의 소스 파일 (client-c.c, server-c.c, client-python.py, server-python.py)
+* 직접 작성한 코드: srcs 디렉토리의 소스 파일 (client-c.c, server-c.c, client-python.py, server-python.py)
